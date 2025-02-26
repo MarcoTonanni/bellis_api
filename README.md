@@ -1,7 +1,7 @@
 # De Bellis Rei Publicae Romanae Django REST API
 ## An API serving and managing information about the wars of the Roman Republic
 
-This API was created as a student project for learning and practicing the creating of back-end APIs with Django and Django REST Framework.
+This API was created as a student project for learning and practicing the creation of back-end APIs with Django and Django REST Framework.
 
 Here follows a list of features implemented:
 
